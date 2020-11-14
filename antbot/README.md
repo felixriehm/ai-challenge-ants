@@ -33,16 +33,16 @@ The colony had the task to gather food, fight other ants and defend their own hi
 ## Images
 
 ###### Game UI
-![Image1](https://github.com/felixriehm/AntBot/blob/master/doc/images/ants.png)
+![Image1](images/ants.png)
 
 ###### Alpha beta algorithm
-![Image1](https://github.com/felixriehm/AntBot/blob/master/doc/images/alphaBeta.png)
+![Image1](images/alphaBeta.png)
 
 ###### Socially oriented search
-![Image1](https://github.com/felixriehm/AntBot/blob/master/doc/images/sos.png)
+![Image1](images/sos.png)
 
 ###### Attack 1 vs 2
-![Image1](https://github.com/felixriehm/AntBot/blob/master/doc/images/2vs1_1.png)
+![Image1](images/2vs1_1.png)
 
 ###### State diagram
-![Image1](https://github.com/felixriehm/AntBot/blob/master/doc/images/zustandsdiagramm.png)
+![Image1](images/zustandsdiagramm.png)
