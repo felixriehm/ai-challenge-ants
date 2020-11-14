@@ -33,16 +33,16 @@ The colony had the task to gather food, fight other ants and defend their own hi
 ## Images
 
 ###### Game UI
-![Image1](images/ants.png)
+![Image1](doc/images/ants.png)
 
 ###### Alpha beta algorithm
-![Image1](images/alphaBeta.png)
+![Image1](doc/images/alphaBeta.png)
 
 ###### Socially oriented search
-![Image1](images/sos.png)
+![Image1](doc/images/sos.png)
 
 ###### Attack 1 vs 2
-![Image1](images/2vs1_1.png)
+![Image1](doc/images/2vs1_1.png)
 
 ###### State diagram
-![Image1](images/zustandsdiagramm.png)
+![Image1](doc/images/zustandsdiagramm.png)
